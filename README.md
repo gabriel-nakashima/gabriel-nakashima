@@ -55,7 +55,6 @@
 ---
 
 ## 🟡 Pac-Man Contribution Graph  
-### *(Ele aparece sozinho quando o workflow rodar!)*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabriel-nakashima/gabriel-nakashima/output/pacman-contribution-graph-dark.svg">
