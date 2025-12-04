@@ -29,9 +29,6 @@
 
 ### 🎮 Pac-Man Contribution Graph
 
-> ⚠️ *O gráfico é gerado automaticamente pela Action `pacman.yml`.  
-> Ele aparece assim que a Action rodar pela primeira vez.*
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabriel-nakashima/gabriel-nakashima/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabriel-nakashima/gabriel-nakashima/output/pacman-contribution-graph.svg">
